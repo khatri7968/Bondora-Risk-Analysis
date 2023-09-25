@@ -158,7 +158,7 @@ We have 3 unique values in the `Status` column:
 - We can see in the Bar charts that the `Secondary`, `Higher` and `Vocational` Education have the higher numbers.
 ### All the EDA Graphs
 
-![(Image)](https://github.com/fasihshaikh/test_readme/blob/main/7f2gi6.gif)
+![Markdown](img/EDA graphs.gif)
 
 
 
@@ -317,23 +317,6 @@ For the `Deplyment`, we used `Flask` as a backend framework to build our web app
 To access our app click the following [link](http://haniiiatef.pythonanywhere.com/)
 
 ![Markdown](img/website_GIF.gif)
-
-## Acknowledgments
-
-We would like to express our sincere gratitude to Mr. Yasin Shah for allowing us to work as a data scientist interns at [Technocolabs](https://technocolabs.com/). The experience We gained during this internship has been invaluable, and We have learned more than We ever could have imagined. You provided us with the chance to work on exciting and challenging projects that allowed us to develop our skills and contribute to the growth of the company.
-
-Throughout our internship, We have appreciated your support, feedback, and guidance. Your leadership and mentorship were truly inspiring and encouraged us to work harder and strive for excellence. We are extremely grateful for the time and effort you invested in our development, and We will always remember the lessons We learned under your supervision.
-
-
-## Contributers
-
-* Pawan Khatri      :email: **engrpawan111@gmail.com**
-* Poojitha Guniputi :email: **poojithaguniputi@gmail.com**
-* Fasih Ahmed       :email: **fasihshaikh@hotmail.com**
-* Manavi Nair       :email: **manavinair20@gmail.com**
-* Sohan Souri       :email: **sohansouri02@gmail.com**
-* Mohamed Ashraf    :email: **mohamed1542200@gmail.com**
-* Hani Atef         :email: **haniatef1998@gmail.com**
 
 ## Reference
 * [Project Summary](https://technocollabs.gitbook.io/bondora-statistics/)
