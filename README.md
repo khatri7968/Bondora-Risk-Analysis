@@ -312,7 +312,7 @@ We will use the `ridge model` in our web application because it performed better
 ## Deployment
 For the `Deplyment`, we used `Flask` as a backend framework to build our web application, and `pythonanywhre` as a cloud service.
 
-To access our app click the following [link](http://haniiiatef.pythonanywhere.com/)
+To access our app click the following [link](http://pawankhatri.pythonanywhere.com/)
 
 ![Markdown](img/website_GIF.gif)
 
